@@ -1,0 +1,44 @@
+# Cracking Kaggle competition
+
+- This repo contains lots of Exploratory Data Analysis and making Machine Learning Models for kaggle competition submissions.
+- Each competition has it's own approach to solve it and get the best results.
+
+
+# Competition in progress
+
+## Classification
+
+- CareerCon 2019
+- Don't OverFit
+
+## Regression
+None.
+
+# Cracked Competition
+
+## Classification
+
+- Titanc Disaster (https://www.kaggle.com/c/titanic)
+Score: 77% (Higher is better)
+
+- Forest Cover Type (https://www.kaggle.com/c/forest-cover-type-prediction)
+Score: 79% (Higher is better)
+
+- IEEE-CIS Fraud Detection (https://www.kaggle.com/c/ieee-fraud-detection)
+Score: 92% (Higher is better)
+
+
+## Regression
+
+- House Prices Prediction (https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
+Score: 0.12 (Lower is better)
+
+- Fish Market (https://www.kaggle.com/aungpyaeap/fish-market)
+No Score.
+
+- Bike Sharing Demand (https://www.kaggle.com/c/bike-sharing-demand)
+Score: 0.417 (Lower is better)
+
+
+# Hints
+- You can get the data/csv files from the links of the competitions.
