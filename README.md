@@ -1,10 +1,10 @@
-# Cracking Kaggle competition
+# Cracking Kaggle competitions
 
 - This repo contains lots of Exploratory Data Analysis and making Machine Learning Models for kaggle competition submissions.
-- Each competition has it's own approach to solve it and get the best results.
+- Each competition has its own approach to solve it and get the best results.
 
 
-# Competition in progress
+# Competitions in progress
 
 ## Classification
 
@@ -14,7 +14,7 @@
 ## Regression
 None.
 
-# Cracked Competition
+# Cracked Competitions
 
 ## Classification
 
@@ -26,6 +26,9 @@ Score: 79% (Higher is better)
 
 - IEEE-CIS Fraud Detection (https://www.kaggle.com/c/ieee-fraud-detection)
 Score: 92% (Higher is better)
+
+- Instant Gratification (https://www.kaggle.com/c/instant-gratification)
+No Score.
 
 
 ## Regression
