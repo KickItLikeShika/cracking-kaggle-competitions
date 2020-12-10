@@ -30,6 +30,9 @@ Score: 92% (Higher is better)
 - Instant Gratification (https://www.kaggle.com/c/instant-gratification)
 No Score.
 
+- Categorical Feature Encoding (https://www.kaggle.com/c/cat-in-the-dat)
+Score: 76% (Higher is better)
+
 
 ## Regression
 
@@ -44,4 +47,4 @@ Score: 0.417 (Lower is better)
 
 
 # Hints
-- You can get the data/csv files from the links of the competitions.
+- You can get the data/csv files from the links of the competitions above.
