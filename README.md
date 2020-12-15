@@ -1,7 +1,7 @@
 # Cracking Kaggle competitions
 
-- This repo contains lots of Exploratory Data Analysis and making Machine Learning Models for kaggle competition submissions.
-- Each competition has its own approach to solve it and get the best results.
+- This repo contains lots of Exploratory Data Analysis(EDA), Feature Generating, and making Machine Learning Models for kaggle competition submissions.
+- Each competition has its own approach to solve it to get the best results.
 
 
 # Competitions in progress
@@ -12,7 +12,7 @@
 - Don't OverFit
 
 ## Regression
-- TMDB Box Office Prediction (https://www.kaggle.com/c/tmdb-box-office-prediction/overview)
+None.
 
 # Cracked Competitions
 
@@ -45,6 +45,8 @@ No Score.
 - Bike Sharing Demand (https://www.kaggle.com/c/bike-sharing-demand)
 Score: 0.417 (Lower is better)
 
+- TMDB Box Office Prediction (https://www.kaggle.com/c/tmdb-box-office-prediction)
+Score: 2.127 (Lower is better)
 
 # Hints
 - You can get the data/csv files from the links of the competitions above.
