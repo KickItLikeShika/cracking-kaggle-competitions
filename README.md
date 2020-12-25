@@ -7,9 +7,7 @@
 # Competitions in progress
 
 ## Classification
-
-- CareerCon 2019
-- Don't OverFit
+- None.
 
 ## Regression
 - Predict Future Sales (https://www.kaggle.com/c/competitive-data-science-predict-future-sales)
