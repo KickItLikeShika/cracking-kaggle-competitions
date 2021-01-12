@@ -7,7 +7,7 @@
 # Competitions in progress
 
 ## Classification
-- None.
+- Amazon Employee Access Challenge (https://www.kaggle.com/c/amazon-employee-access-challenge/overview)
 
 ## Regression
 - Predict Future Sales (https://www.kaggle.com/c/competitive-data-science-predict-future-sales)
