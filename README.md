@@ -7,7 +7,7 @@
 # Competitions in progress
 
 ## Classification
-- Amazon Employee Access Challenge (https://www.kaggle.com/c/amazon-employee-access-challenge/overview)
+- None.
 
 ## Regression
 - Predict Future Sales (https://www.kaggle.com/c/competitive-data-science-predict-future-sales)
@@ -31,6 +31,9 @@ No Score.
 - Categorical Feature Encoding (https://www.kaggle.com/c/cat-in-the-dat)
 Score: 76% (Higher is better)
 
+- Amazon Employee Access Challenge (https://www.kaggle.com/c/amazon-employee-access-challenge/overview)
+Score: 89% (Higher is better)
+
 
 ## Regression
 
@@ -45,6 +48,7 @@ Score: 0.417 (Lower is better)
 
 - TMDB Box Office Prediction (https://www.kaggle.com/c/tmdb-box-office-prediction)
 Score: 2.127 (Lower is better)
+
 
 # Hints
 - You can get the data/csv files from the links of the competitions above.
