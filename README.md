@@ -1,6 +1,6 @@
 # Cracking Kaggle competitions
 
-- This repo contains lots of Exploratory Data Analysis(EDA), Feature Generating, and making Machine Learning Models for kaggle competition submissions.
+- This repo contains lots of Data Cleaning. Exploratory Data Analysis(EDA), Feature Generation, and Modelling techniques for kaggle competition submissions.
 - Each competition has its own approach to solve it to get the best results.
 
 
