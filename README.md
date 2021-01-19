@@ -10,6 +10,7 @@
 - None.
 
 ## Regression
+- Used Cars Price Prediction (https://www.kaggle.com/avikasliwal/used-cars-price-prediction)
 - Predict Future Sales (https://www.kaggle.com/c/competitive-data-science-predict-future-sales)
 
 # Cracked Competitions
