@@ -14,7 +14,7 @@ I believe it shows my new skills.
 - None.
 
 ## Regression
-- Predict Future Sales (https://www.kaggle.com/c/competitive-data-science-predict-future-sales)
+- None.
 
 # Cracked Competitions
 
