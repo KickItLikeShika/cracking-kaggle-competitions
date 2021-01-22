@@ -3,6 +3,10 @@
 - This repo contains lots of Data Cleaning, Feature Engineering, Exploratory Data Analysis(EDA), and Modelling techniques for kaggle competition submissions.
 - Each competition has its own approach to solve it to get the best results.
 
+### Advice
+If you want to learn something new/advanced i advice you to take a look on this competition:
+- Used Cars Price Prediction (https://www.kaggle.com/avikasliwal/used-cars-price-prediction)
+I believe it shows my new skills.
 
 # Competitions in progress
 
@@ -10,7 +14,6 @@
 - None.
 
 ## Regression
-- Used Cars Price Prediction (https://www.kaggle.com/avikasliwal/used-cars-price-prediction)
 - Predict Future Sales (https://www.kaggle.com/c/competitive-data-science-predict-future-sales)
 
 # Cracked Competitions
@@ -50,6 +53,8 @@ Score: 0.417 (Lower is better)
 - TMDB Box Office Prediction (https://www.kaggle.com/c/tmdb-box-office-prediction)
 Score: 2.127 (Lower is better)
 
+- Used Cars Price Prediction (https://www.kaggle.com/avikasliwal/used-cars-price-prediction)
+No Score.
 
 # Hints
 - You can get the data/csv files from the links of the competitions above.
