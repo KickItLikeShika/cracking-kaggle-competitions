@@ -15,3 +15,6 @@
 *.jpg
 *.png
 *.jpeg
+*.txt
+*.bin
+*.vec
