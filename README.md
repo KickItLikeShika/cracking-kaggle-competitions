@@ -1,6 +1,6 @@
 # Cracking Kaggle competitions
 
-- This repo contains lots of Data Cleaning, Feature Engineering, Exploratory Data Analysis(EDA), and Modelling techniques for kaggle competition submissions.
+- This repository contains lots of Data Cleaning, Feature Engineering, Exploratory Data Analysis(EDA), and Modelling techniques for kaggle competition submissions.
 - Each competition has its own approach to solve it to get the best results.
 
 ### Advice
@@ -15,6 +15,10 @@ I believe it shows my new skills.
 
 ## Regression
 - None.
+
+## NLP
+- Quora Insincere Questions Classification (https://www.kaggle.com/c/quora-insincere-questions-classification)
+
 
 # Cracked Competitions
 
@@ -55,6 +59,11 @@ Score: 2.127 (Lower is better)
 
 - Used Cars Price Prediction (https://www.kaggle.com/avikasliwal/used-cars-price-prediction)
 No Score.
+
+
+## NLP
+- None.
+
 
 # Hints
 - You can get the data/csv files from the links of the competitions above.
