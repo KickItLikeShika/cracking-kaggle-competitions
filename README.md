@@ -4,7 +4,7 @@
 - Each competition has its own approach to solve it to get the best results.
 
 ### Advice
-If you want to learn something new/advanced i advice you to take a look on this competition:
+If you want to learn something new/advanced i advice you to have a look on this competition:
 - Used Cars Price Prediction (https://www.kaggle.com/avikasliwal/used-cars-price-prediction)
 I believe it shows my new skills.
 
