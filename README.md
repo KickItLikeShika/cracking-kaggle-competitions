@@ -14,7 +14,7 @@ I believe it shows my new skills.
 - None.
 
 ## Regression
-- None.
+- Tabular Palyground Series Feb 2021 (https://www.kaggle.com/c/tabular-playground-series-feb-2021)
 
 ## NLP
 - None.
