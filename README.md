@@ -17,7 +17,7 @@ I believe it shows my new skills.
 - None.
 
 ## NLP
-- Quora Insincere Questions Classification (https://www.kaggle.com/c/quora-insincere-questions-classification)
+- None.
 
 
 # Cracked Competitions
@@ -82,7 +82,10 @@ No Score.
 
 
 ## NLP
-- None.
+
+- Quora Insincere Questions Classification (https://www.kaggle.com/c/quora-insincere-questions-classification). 
+Score: .70 (Higher is better)
+	- Kaggle Notebook: None.
 
 
 # Hints
