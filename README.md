@@ -26,6 +26,7 @@ I believe it shows my new skills.
 
 - Titanc Disaster (https://www.kaggle.com/c/titanic)
 Score: 77% (Higher is better)
+	- Kaggle Notebook: (https://www.kaggle.com/kickitlikeshika/titanic-disaster)
 
 - Forest Cover Type (https://www.kaggle.com/c/forest-cover-type-prediction)
 Score: 79% (Higher is better)
