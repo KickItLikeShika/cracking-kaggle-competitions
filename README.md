@@ -15,10 +15,10 @@ I believe it shows my new skills.
 - None.
 
 ## Regression
-- Tabular Palyground Series Feb 2021 (https://www.kaggle.com/c/tabular-playground-series-feb-2021)
+- None.
 
 ## NLP
-- None.
+- Natural Language Processing with Disaster Tweets (https://www.kaggle.com/c/nlp-getting-started)
 
 
 # Cracked Competitions
@@ -81,6 +81,8 @@ Score: 2.127 (Lower is better)
 No Score.
 	- Kaggle Notebook: (https://www.kaggle.com/kickitlikeshika/advanced-techniques-to-get-the-best-accuracy)
 
+- Tabular Palyground Series Feb 2021 (https://www.kaggle.com/c/tabular-playground-series-feb-2021)
+Score: 0.84235 (Lower is better)
 
 ## NLP
 
