@@ -2,7 +2,7 @@
 
 - This repository contains lots of Data Cleaning, Feature Engineering, Exploratory Data Analysis(EDA), and Modeling techniques for Classical Machine Learning competitions on Kaggle. It also contains Various Text Processing techniques, Different uses and architectures of RNN using Pytorch and other approaches for NLP competitions on Kaggle.
 
-- Each competition has its own approach to solve it to get the best results. 
+- Each competition has its own approach to solve it to get the best results.       
 
 ### Advice
 If you want to learn something new/advanced i advice you to have a look on this competition:
