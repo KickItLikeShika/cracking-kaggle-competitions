@@ -1,4 +1,4 @@
-# Cracking Kaggle competitions
+# Cracking Kaggle Competitions
 
 - This repository contains lots of Data Cleaning, Feature Engineering, Exploratory Data Analysis(EDA), and Modeling techniques for Classical Machine Learning competitions on Kaggle. It also contains Various Text Processing techniques, Different uses and architectures of RNN using Pytorch and other approaches for NLP competitions on Kaggle.
 
@@ -18,7 +18,7 @@ I believe it shows my new skills.
 - None.
 
 ## NLP
-- Natural Language Processing with Disaster Tweets (https://www.kaggle.com/c/nlp-getting-started)
+- Twitter Tweets Data (https://www.kaggle.com/saadbinmanjuradit/twitter-tweets-data)
 
 
 # Cracked Competitions
@@ -90,6 +90,10 @@ Score: 0.84235 (Lower is better)
 Score: .70 (Higher is better)
 	- Kaggle Notebook: None.
 
+- Natural Language Processing with Disaster Tweets (https://www.kaggle.com/c/nlp-getting-started).
+Score: .798 (Higher is better)
+
+	- Kaggle Notebook: None.
 
 # Hints
 - You can get the data/csv files from the links of the competitions above.
