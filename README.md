@@ -18,7 +18,7 @@ I believe it shows my new skills.
 - None.
 
 ## NLP
-- Twitter Tweets Data (https://www.kaggle.com/saadbinmanjuradit/twitter-tweets-data)
+- None.
 
 
 # Cracked Competitions
@@ -93,6 +93,10 @@ Score: .70 (Higher is better)
 - Natural Language Processing with Disaster Tweets (https://www.kaggle.com/c/nlp-getting-started).
 Score: .798 (Higher is better)
 
+	- Kaggle Notebook: None.
+
+- Twitter Tweets Data (https://www.kaggle.com/saadbinmanjuradit/twitter-tweets-data).
+No Score.
 	- Kaggle Notebook: None.
 
 # Hints
