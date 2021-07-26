@@ -18,7 +18,7 @@ I believe it shows my new skills.
 - None.
 
 ## NLP
-- CommonLit readability Prize: https://www.kaggle.com/c/commonlitreadabilityprize
+- CommonLit readability Prize: https://www.kaggle.com/c/commonlitreadabilityprize (Currently in the top 8.5%)
 
 
 # Cracked Competitions
