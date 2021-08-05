@@ -18,7 +18,7 @@ I believe it shows my new skills.
 - None.
 
 ## NLP
-- CommonLit readability Prize: https://www.kaggle.com/c/commonlitreadabilityprize (Currently in the top 8.5%)
+- Sentiment Analysis on Movie Reviews: https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews (Top 13%)
 
 
 # Cracked Competitions
@@ -97,6 +97,9 @@ Score: .798 (Higher is better)
 
 - Twitter Tweets Data (https://www.kaggle.com/saadbinmanjuradit/twitter-tweets-data).
 No Score.
+	- Kaggle Notebook: None.
+- CommonLit readability Prize (https://www.kaggle.com/c/commonlitreadabilityprize) (top 9%)
+Score: 0.460 (Lower is better)
 	- Kaggle Notebook: None.
 
 # Hints
