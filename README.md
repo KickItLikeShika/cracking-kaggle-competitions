@@ -18,7 +18,7 @@ I believe it shows my new skills.
 - None.
 
 ## NLP
-- Sentiment Analysis on Movie Reviews: https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews (Top 13%)
+- None.
 
 
 # Cracked Competitions
@@ -101,6 +101,10 @@ No Score.
 - CommonLit readability Prize (https://www.kaggle.com/c/commonlitreadabilityprize) (top 9%)
 Score: 0.460 (Lower is better)
 	- Kaggle Notebook: None.
+
+- Sentiment Analysis on Movie Reviews: https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews (Top 1%, 5th place)
+Score: 0.69644 (Higher is better)
+	- Kaggle Notebook: https://www.kaggle.com/kickitlikeshika/bert-for-sentiment-analysis-5th-place-solution
 
 # Hints
 - You can get the data/csv files from the links of the competitions above.
