@@ -106,5 +106,8 @@ Score: 0.460 (Lower is better)
 Score: 0.69644 (Higher is better)
 	- Kaggle Notebook: https://www.kaggle.com/kickitlikeshika/bert-for-sentiment-analysis-5th-place-solution
 
+- Google QUEST Q&A Labeling: https://www.kaggle.com/c/google-quest-challenge
+	- Kaggle Notebook: None.
+
 # Hints
 - You can get the data/csv files from the links of the competitions above.
